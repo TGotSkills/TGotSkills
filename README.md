@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TGotSkills
-- 👀 I’m interested in soccer, web apps, and gaming.
+- 👀 I’m interested in soccer, coding, and gaming.
 - 🌱 I’m currently learning web devlopment and azure.
-- 💞️ I’m looking to collaborate on web applications first then mobile apps.
+- 💞️ I’m looking to collaborate on web applications then move on to mobile apps.
 - 📫 How to reach me best by email
 
 <!---
